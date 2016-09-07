@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thietkelogogiarequangovap.blogspot.com/' target='_blank'><img src='http://solution.com.vn/upload_images/images/dich-vu-thiet-ke-logo-cong-ty-solution.jpg' width='500px'/>Thiết kế chuyên sâu</a>. Khu vực Gò Vấp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thietkelogogiarequangovap.blogspot.com/' target='_blank'><img src='http://solution.com.vn/upload_images/images/dich-vu-thiet-ke-logo-cong-ty-solution.jpg' width='500px'/>Thiết kế chuyên nghiệp</a>. Khu vực Gò Vấp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
