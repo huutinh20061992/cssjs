@@ -24,7 +24,7 @@ transition: all 0.18s ease-out;
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
 color: #000;
-font-family: 'PT Sans', Arial, sans-serif;
+font-family: 'Tahoma', Arial, sans-serif;
 font-weight: bold;
 }
 h1 { font-size: 22px; }
